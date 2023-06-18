@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page_1 {
+  background-color: #f5f5f5;
+}
+h1 {
+  padding-top: 94px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  text-align: center;
+}
+p {
+  margin-top: 28px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+}
+img {
+  margin-top: 90px;
+  width: 996px;
+}
+.btns {
+  display: flex;
+  justify-content: center;
+  gap: 22px;
+}
+button {
+  margin-top: 76px;
+  margin-bottom: 101px;
+  width: 189px;
+  height: 40px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.44);
+}
+.btn1 {
+  background-color: #6f2cff;
+  color: aliceblue;
+  font-weight: 400;
+}
+.btn2 {
+  background-color: rgb(255, 255, 255);
+  color: #6f2cff;
+}
+h2 {
+  padding-top: 88px;
+  padding-bottom: 75px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+.three_content {
+  display: flex;
+  gap: 40px;
+  padding-bottom: 105px;
+}
+.three_content img {
+  width: 320px;
+  margin: 0;
+  padding: 0;
+}
+.content_1 {
+  width: 320px;
+  background-color: #f5f5f5;
+  border-radius: 7px;
+  box-shadow: 3px 3px 15px rgba(37, 36, 36, 0.341);
+}
+.paragrap {
+  padding: 25px 67px 60px 68px;
+}
+.paragrap b {
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+}
+.paragrap p {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 22px;
+  text-align: center;
+  color: #6f2cff;
+}
+.page_3 {
+  background-color: #f5f5f5;
+}
+.page_3 h2 {
+  margin: 0;
+  padding: 64px 0 12px 0;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.page_3 p {
+  margin-top: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+}
+.page_3 img {
+  width: 54px;
+  margin: 0;
+  padding: 0;
+}
+.box {
+  margin-top: 58px;
+}
+.group_1 {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 30px;
+}
+.group_1 > div {
+  width: 500px;
+  background-color: #17002e;
+  border-radius: 13px;
+  padding: 25px;
+}
+.group_1 span strong {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #f5f5f5;
+}
+.group_1 div p {
+  margin-top: 31px;
+  margin-bottom: 9px;
+  color: #ffffff;
+  text-align: start;
+}
